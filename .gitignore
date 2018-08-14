@@ -2,3 +2,8 @@ composer.lock
 composer.phar
 phpunit.xml
 vendor
+
+# IDE
+/.idea
+/_ide_helper.php
+/.phpstorm.meta.php
