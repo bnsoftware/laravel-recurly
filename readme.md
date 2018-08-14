@@ -1,5 +1,7 @@
 Laravel Recurly Package
 =======================
+[![Latest Stable Version](http://img.shields.io/packagist/v/jorisvanw/laravel-recurly.svg)](https://packagist.org/packages/jorisvanw/laravel-recurly) [![Total Downloads](http://img.shields.io/packagist/dm/jorisvanw/laravel-recurly.svg)](https://packagist.org/packages/jorisvanw/laravel-recurly) [![Build Status](http://img.shields.io/travis/jorisvanw/laravel-recurly.svg)](https://travis-ci.org/jorisvanw/laravel-recurly) [![Coverage Status](http://img.shields.io/coveralls/jorisvanw/laravel-recurly.svg)](https://coveralls.io/r/jorisvanw/laravel-recurly) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/JorisvanW)
+
 
 Integrates the Recurly API with Laravel 5.
 
