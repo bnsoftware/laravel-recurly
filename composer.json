@@ -1,23 +1,9 @@
 {
-    "name": "jorisvanw/laravel-recurly",
-    "homepage": "https://github.com/JorisvanW/laravel-recurly",
-    "description": "A simple Laravel 5 service provider for including the Recurly PHP client.",
-    "keywords": ["laravel","laravel 5","recurly","recurring","billing","api"],
-    "license":"MIT",
-    "authors":[
-        {
-            "name":"Joris van Willigen",
-            "email":"me@jorisvanw.me",
-            "homepage":"https://jorisvanw.me"
-        },
-        {
-            "name":"Chris Thompson",
-            "email":"christhompsontldr@gmail.com",
-            "homepage":"https://christhompsontldr.com"
-        }
-    ],
+    "name": "bnsoftware/laravel-recurly",
+    "homepage": "https://github.com/bnsoftware/laravel-recurly",
+    "description": "Copy of https://github.com/JorisvanW/laravel-recurly",
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=7.4",
         "recurly/recurly-client": "2.10.*"
     },
     "autoload": {
