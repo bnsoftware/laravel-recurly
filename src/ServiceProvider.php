@@ -2,7 +2,6 @@
 
 namespace JorisvanW\LaravelRecurly;
 
-use \Recurly_js;
 use \Recurly_Client;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
@@ -24,7 +23,6 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
     {
         Recurly_Client::$apiKey    = config('recurly.api_key', null);
         Recurly_Client::$subdomain = config('recurly.subdomain', null);
-        Recurly_js::$privateKey    = config('recurly.private_key', null);
     }
 
     /**
