@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "bnsoftware/recurly-client-v2": "2.14.14.1"
+        "bnsoftware/recurly-client-v2": "2.14.14.2"
     },
     "autoload": {
         "psr-4": {
